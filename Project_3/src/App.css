@@ -1,0 +1,31 @@
+.btn {
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 8px;
+    background: none;
+}
+.L{
+   width: 225px;
+   padding: 15px 30px;
+}
+.M {
+width: 125px;
+padding: 10px 15px;
+}
+.XS {
+    font-size: 12px;
+    color: red;
+    border: 1px solid red;
+    padding: 5px 10px;
+    
+}
+/* используем !important чтоб можно бфло перезаписывать  */
+.l {
+    width: 400px !important;  
+}
+.m {
+    width: 300px !important;
+}
+.xs {
+    width: 100px !important;
+}
