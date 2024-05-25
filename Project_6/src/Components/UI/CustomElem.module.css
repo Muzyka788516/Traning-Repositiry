@@ -1,0 +1,15 @@
+.btn{
+    padding: 5px 20px;
+    border: 1px solid teal;
+    background: transparent;
+    border-radius: 8px;
+}
+
+
+.inputForm input {
+width: 100%;
+padding: 10px;
+border: 1px solid teal;
+border-radius: 8px;
+margin: 5px 0;
+}
